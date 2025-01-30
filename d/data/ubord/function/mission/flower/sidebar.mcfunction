@@ -1,0 +1,1 @@
+$scoreboard players display numberformat 花を入手:$(count)/$(goal) ubord.misson blank

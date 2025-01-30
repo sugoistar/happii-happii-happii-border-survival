@@ -1,0 +1,2 @@
+execute store result storage ubord: data.random double 1 run random value -180..180
+execute at @n[type=area_effect_cloud,tag=ubord_top] summon area_effect_cloud run function ubord:events/aultu/muki with storage ubord: data

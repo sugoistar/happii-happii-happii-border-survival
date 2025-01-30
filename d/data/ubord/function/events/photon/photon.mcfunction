@@ -1,0 +1,1 @@
+execute summon area_effect_cloud run function ubord:events/photon/set with storage ubord: data

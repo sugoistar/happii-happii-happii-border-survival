@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "predicates": {
+              "minecraft:custom_data": "{uma_cowse:1}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "ubord:events/cowse/consume"
+    }
+  }

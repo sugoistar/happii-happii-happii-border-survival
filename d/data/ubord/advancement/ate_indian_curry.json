@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "predicates": {
+            "minecraft:custom_data": "{indian_curry:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "ubord:events/indian_curry/ate"
+  }
+}

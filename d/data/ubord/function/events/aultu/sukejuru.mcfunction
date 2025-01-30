@@ -1,0 +1,1 @@
+$schedule function ubord:events/aultu/snisummon $(auc) append

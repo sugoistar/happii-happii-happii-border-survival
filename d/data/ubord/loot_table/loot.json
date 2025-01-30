@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "ubord:berries"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "ubord:fruits"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "ubord:kelps"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "ubord:meals"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "ubord:poisons"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "ubord:stargazy_pie"
+        }
+      ]
+    }
+  ]
+}

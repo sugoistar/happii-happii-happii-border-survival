@@ -1,0 +1,1 @@
+scoreboard players set @s nbs_aaaa_t 314

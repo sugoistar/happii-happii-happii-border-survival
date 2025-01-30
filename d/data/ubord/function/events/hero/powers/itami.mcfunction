@@ -1,0 +1,1 @@
+$damage @s $(damage) mace_smash by @p[tag=ubord.pow]

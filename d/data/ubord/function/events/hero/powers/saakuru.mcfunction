@@ -1,0 +1,21 @@
+
+particle flame ^0 ^ ^-1.5 0 0 0 0 1
+particle flame ^0.46353 ^ ^-1.42658 0 0 0 0 1
+particle flame ^0.88168 ^ ^-1.21353 0 0 0 0 1
+particle flame ^1.21353 ^ ^-0.88168 0 0 0 0 1
+particle flame ^1.42658 ^ ^-0.46353 0 0 0 0 1
+particle flame ^1.5 ^ ^0 0 0 0 0 1
+particle flame ^1.42658 ^ ^0.46353 0 0 0 0 1
+particle flame ^1.21353 ^ ^0.88168 0 0 0 0 1
+particle flame ^0.88168 ^ ^1.21353 0 0 0 0 1
+particle flame ^0.46353 ^ ^1.42658 0 0 0 0 1
+particle flame ^0 ^ ^1.5 0 0 0 0 1
+particle flame ^-0.46353 ^ ^1.42658 0 0 0 0 1
+particle flame ^-0.88168 ^ ^1.21353 0 0 0 0 1
+particle flame ^-1.21353 ^ ^0.88168 0 0 0 0 1
+particle flame ^-1.42658 ^ ^0.46353 0 0 0 0 1
+particle flame ^-1.5 ^ ^0 0 0 0 0 1
+particle flame ^-1.42658 ^ ^-0.46353 0 0 0 0 1
+particle flame ^-1.21353 ^ ^-0.88168 0 0 0 0 1
+particle flame ^-0.88168 ^ ^-1.21353 0 0 0 0 1
+particle flame ^-0.46353 ^ ^-1.42658 0 0 0 0 1

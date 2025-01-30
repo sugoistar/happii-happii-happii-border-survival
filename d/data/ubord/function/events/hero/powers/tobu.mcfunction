@@ -1,0 +1,1 @@
+execute as @a[tag=ubord.pow] at @s anchored eyes positioned ^ ^ ^1 run function ubord:events/hero/powers/tama

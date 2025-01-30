@@ -1,0 +1,1 @@
+execute store result score #miss_m ubord.nanka run scoreboard players get #player ubord.bords

@@ -1,0 +1,1 @@
+$scoreboard players display numberformat 睡眠を取る:$(count)/$(goal) ubord.misson blank

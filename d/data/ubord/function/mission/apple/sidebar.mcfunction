@@ -1,0 +1,1 @@
+$scoreboard players display numberformat りんごを入手:$(count)/$(goal) ubord.misson blank

@@ -1,0 +1,1 @@
+particle block_marker{block_state:barrier} ~ ~ ~

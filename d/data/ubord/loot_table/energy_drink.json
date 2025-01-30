@@ -1,0 +1,65 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:potion_contents": {
+                  "custom_color": 11524864,
+                  "custom_effects": [
+                    {
+                      "id": "minecraft:regeneration",
+                      "amplifier": 2,
+                      "duration": 600
+                    },
+                    {
+                      "id": "minecraft:health_boost",
+                      "amplifier": 0,
+                      "duration": 600
+                    },
+                    {
+                      "id": "minecraft:speed",
+                      "amplifier": 1,
+                      "duration": 600
+                    },
+                    {
+                      "id": "minecraft:jump_boost",
+                      "amplifier": 1,
+                      "duration": 600
+                    },
+                    {
+                      "id": "minecraft:strength",
+                      "amplifier": 0,
+                      "duration": 600
+                    },
+                    {
+                      "id": "minecraft:haste",
+                      "amplifier": 2,
+                      "duration": 600
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "エナジードリンク",
+                "color": "white",
+                "italic": false
+              },
+              "target": "custom_name"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

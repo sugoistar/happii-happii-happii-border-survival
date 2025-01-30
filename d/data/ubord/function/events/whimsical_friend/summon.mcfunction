@@ -1,0 +1,1 @@
+execute summon cat run function ubord:events/whimsical_friend/init

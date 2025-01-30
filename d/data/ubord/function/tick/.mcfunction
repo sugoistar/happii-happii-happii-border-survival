@@ -1,0 +1,11 @@
+execute if entity @s[tag=ubord_powertama] run function ubord:events/hero/powers/tamain
+execute if entity @s[tag=ubord_treeseed] run function ubord:events/tree/main
+execute if entity @s[tag=ubord_inseki] run function ubord:events/inseki/main
+execute if entity @s[tag=ubord_photon] run function ubord:events/photon/main
+execute if entity @s[tag=ubord_movingitem] run function ubord:events/itemmove/main
+execute if entity @s[tag=ubord_fallingstar] run function ubord:events/starry_night/hosi
+execute if entity @s[tag=ubord_blue_portal] run function ubord:events/portal/main/blue
+execute if entity @s[tag=ubord_red_portal] run function ubord:events/portal/main/red
+execute if entity @s[tag=ubord_fallingstarfall] run function ubord:events/starry_night/otirumain
+execute if entity @s[tag=ubord_wave] run function ubord:events/wave/main
+execute if entity @s[tag=ubord_sunaipaa] run function ubord:events/aultu/main

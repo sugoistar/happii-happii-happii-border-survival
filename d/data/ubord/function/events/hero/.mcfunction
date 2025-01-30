@@ -1,0 +1,3 @@
+function ubord:events/fix
+execute unless entity @a[scores={ubord.tikara=1..}] if score #player ubord.bords matches 3.. if score #alive ubord.bords matches 3.. run execute as @r at @s run function ubord:events/hero/tikaraneed
+execute unless entity @a[scores={ubord.tikara=1..}] if score #player ubord.bords matches 3.. if score #alive ubord.bords matches ..2 run execute as @r[gamemode=spectator] at @s run function ubord:events/hero/tikaraneed

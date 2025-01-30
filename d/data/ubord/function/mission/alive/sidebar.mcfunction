@@ -1,0 +1,1 @@
+$scoreboard players display numberformat 生き残る:$(count)/$(goal) ubord.misson blank
